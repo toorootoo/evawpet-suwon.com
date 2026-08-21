@@ -1,0 +1,24 @@
+# https://evawpet-suwon.com/robots.txt
+# 이바우펫 수원점 - 검색로봇 수집 허용 설정
+
+# 네이버 검색로봇
+User-agent: Yeti
+Allow: /
+
+# 구글 검색로봇
+User-agent: Googlebot
+Allow: /
+
+# 다음(카카오) 검색로봇
+User-agent: Daum
+Allow: /
+
+# 빙 검색로봇
+User-agent: bingbot
+Allow: /
+
+# 그 외 모든 로봇
+User-agent: *
+Allow: /
+
+Sitemap: https://evawpet-suwon.com/sitemap.xml

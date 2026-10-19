@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>이바우펫 애견미용학원 수원점</title>
+    <link>https://evawpet-suwon.com/</link>
+    <description>수원 애견미용학원 이바우펫 수원점. 수원역 인근에서 100% 가정견 실습으로 애견미용사 자격증부터 입질견 케어까지 배워요.</description>
+    <language>ko</language>
+    <lastBuildDate>Mon, 19 Oct 2026 20:30:00 +0900</lastBuildDate>
+    <atom:link href="https://evawpet-suwon.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>수원 애견미용학원 이바우펫 수원점 | 100% 가정견 실습</title>
+      <link>https://evawpet-suwon.com/</link>
+      <guid isPermaLink="true">https://evawpet-suwon.com/</guid>
+      <description>수원역과 가까운 이바우펫 수원점. 강아지와 사람이 함께 행복한 미용을 목표로 가정견 실습, 피어프리 미용, 입질견 케어까지 배우고 평일 낮·저녁반과 토요반 중 편한 시간에 수강할 수 있어요.</description>
+      <pubDate>Mon, 19 Oct 2026 20:30:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
